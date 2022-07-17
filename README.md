@@ -8,3 +8,6 @@ Email: rakibul2180@gmail.com
 Whatsapp/Phone: +8801678201521
 
 Skills: REACT / JavaScript / Node JS / Express JS / MongoDB / JWT
+
+
+![Rakibul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakibul-cse-diu&show_icons=true&theme=radical)
