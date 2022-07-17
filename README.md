@@ -19,4 +19,4 @@ Skills: REACT / JavaScript / Node JS / Express JS / MongoDB / JWT
  </br>
  </br>
 
-![Rakibul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakibul-cse-diu&show_icons=true&theme=radical) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibul-cse-diu&layout=compact)](https://github.com/rakibul-cse-diu/github-readme-stats)
+![Rakibul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakibul-cse-diu&show_icons=true&theme=radical)
